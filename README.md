@@ -43,4 +43,4 @@ This project is for demonstration purposes only. Tesla branding and assets belon
 
 - [Project Demo Example: Bootstrap Studio](https://www.youtube.com/watch?v=deZ0C6oS2gw)
 - [Bootstrap Studio](https://bootstrapstudio.io/)
-- [Bootstrap Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+- [Bootstrap Documentation](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
